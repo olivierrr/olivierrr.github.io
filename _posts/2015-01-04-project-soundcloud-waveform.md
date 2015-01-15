@@ -8,4 +8,4 @@ title: soundcloud-waveform
 ### [demo](http://olivierrr.github.io/soundcloud-waveform/example/) | [source](https://github.com/olivierrr/soundcloud-waveform)
 
 
-A ~replica of the [soundcloud](http://soundcloud.com) music players. Made for [this project](https://github.com/hedgerh/Soundcloud-Enhancement-Suite)
+A recreation of [Soundcloud](http://soundcloud.com)'s audio player using canvas.  For use in [Soundcloud Enhancement Suite](https://github.com/hedgerh/Soundcloud-Enhancement-Suite)
