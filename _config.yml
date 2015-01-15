@@ -18,8 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: oliviersinbox@gmail.com
-  codewars: http://www.codewars.com/users/iliketurtles
-  github: https://github.com/olivierrr
+  github: olivierrr
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
