@@ -1,7 +1,6 @@
 ---
 layout: post
 title: soundcloud-waveform
-date: 2014-7-15
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/soundcloud-waveform.png)
